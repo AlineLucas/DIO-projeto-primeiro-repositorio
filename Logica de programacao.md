@@ -22,7 +22,7 @@ Significa apenas contextualizar a lógica na programação, buscando a melhor se
 
 Exemplo de fluxograma adicionado no fórum:
 
-![fluxograma](C:\DIO-projeto-primeiro-repositorio\DIO-projeto-primeiro-repositorio/fluxo final.png)
+![fluxograma](https://github.com/AlineLucas/DIO-projeto-primeiro-repositorio/blob/main/fluxo%20final.png)
 
 
 
