@@ -8,4 +8,4 @@ Ou ainda...
 
 Exemplo:
 
-![Portugol](C:\Users\aline\OneDrive\Área de Trabalho/portugol.jpg)
+![Portugol](https://github.com/AlineLucas/DIO-projeto-primeiro-repositorio/blob/main/portugol.jpg)
