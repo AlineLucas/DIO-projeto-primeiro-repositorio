@@ -6,6 +6,3 @@ Ou ainda...
 
 É uma pseudolinguagem que permite ao programador pensar no problema em si e não no equipamento que irá executar o algoritmo.
 
-Exemplo:
-
-![Portugol](https://github.com/AlineLucas/DIO-projeto-primeiro-repositorio/blob/main/portugol.jpg)
